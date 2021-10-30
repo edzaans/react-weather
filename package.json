@@ -1,5 +1,4 @@
 {
-  "homepage":"https://edzaans/github.io/react-weather",
   "name": "weather-react",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage":"https://edzaans/github.io/react-weather",
   "eslintConfig": {
     "extends": [
       "react-app",
